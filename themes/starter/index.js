@@ -163,7 +163,7 @@ const LayoutSlug = props => {
   ) {
     const redirectUrl =
       siteConfig('STARTER_POST_REDIRECT_URL') +
-      router.asPath.replace('', '')
+      router.asPath.replace('?theme=landing', '')
     router.push(redirectUrl)
     return (
       <div id='theme-starter'>
