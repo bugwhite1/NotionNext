@@ -1,7 +1,7 @@
 {
-  "name": "entroflow",
-  "version": "V1.0",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "name": "notionnext",
+  "version": "4.9.2",
+  "homepage": "https://www.entroflow.top/",
   "license": "MIT",
   "engines": {
     "node": ">=20"
